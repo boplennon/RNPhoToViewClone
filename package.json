@@ -1,0 +1,57 @@
+{
+  "_from": "git+https://github.com/douglasjunior/react-native-photo-view.git#custom",
+  "_id": "react-native-photo-view@1.5.2",
+  "_inBundle": false,
+  "_integrity": "sha1-IHPGZAd+YjOos0GmWGTR5Z5DVkg=",
+  "_location": "/react-native-photo-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-photo-view@git+https://github.com/douglasjunior/react-native-photo-view.git#custom",
+    "name": "react-native-photo-view",
+    "escapedName": "react-native-photo-view",
+    "rawSpec": "git+https://github.com/douglasjunior/react-native-photo-view.git#custom",
+    "saveSpec": "git+https://github.com/douglasjunior/react-native-photo-view.git#custom",
+    "fetchSpec": "https://github.com/douglasjunior/react-native-photo-view.git",
+    "gitCommittish": "custom"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/douglasjunior/react-native-photo-view.git#00d48aeb007c4f5047bfd0df08a36651c3845f6a",
+  "_spec": "react-native-photo-view@git+https://github.com/douglasjunior/react-native-photo-view.git#custom",
+  "_where": "/Users/boblennon/VND/Project/chat",
+  "author": {
+    "name": "Alexander Pantyukhov",
+    "email": "alwxndr@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/alwx/react-native-photo-view/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "deprecated": false,
+  "description": "Displaying photos with pinch-to-zoom",
+  "homepage": "https://github.com/alwx/react-native-photo-view",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "gallery",
+    "lightbox",
+    "pinch",
+    "pinch-to-zoom",
+    "mobile"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-photo-view",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alwx/react-native-photo-view.git"
+  },
+  "version": "1.5.2"
+}
